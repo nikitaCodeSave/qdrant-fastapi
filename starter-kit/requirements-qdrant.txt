@@ -1,0 +1,3 @@
+# Qdrant Client
+# Асинхронный клиент для векторной базы данных Qdrant
+qdrant-client>=1.16.0
